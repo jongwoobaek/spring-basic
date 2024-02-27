@@ -1,7 +1,7 @@
 package com.springbasic.domain;
 
 public class Member {
-    private long id;
+    private Long id;
     private String name;
 
     public long getId() {
